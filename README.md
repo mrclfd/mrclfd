@@ -12,5 +12,5 @@ ___
 - 🌷 I'm 15y.o 
 - 😞 I'm A child is not very sociable.
 ----
-## **🖥Profile overview:**
+## **Profile overview:**
 ![kenzmobal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kenzmobal&show_icons=true)
