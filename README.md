@@ -1,4 +1,4 @@
-<img src="icon.png" align="right" width="150" height="150"/>
+<img src="icon.png" align="right" width="140" height="140"/>
 
 # Hi there <img src="https://github.com/alfianandaa/alfianandaa/raw/master/assets/wave1.gif" width="30" height="30">
 > I'm Marcel Faraday
