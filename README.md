@@ -6,7 +6,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.tk&theme=vue-dark" />
 </a>
 
--      My Lang Used
+       My Lang Used
 
        I’m currently working on Warung Makan
        I’m currently learning JS,CSS,HTML,PYTHON
