@@ -24,4 +24,4 @@
 
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenzmobal&&show_icons=true&&custom_title=@mrclfd Github Stats&&hide_border=boolean&&theme=vue-dark"
-
+</b>
