@@ -1,5 +1,4 @@
 ## Hi there <img src="https://github.com/alfianandaa/alfianandaa/raw/master/assets/wave1.gif" width="30" height="30">
-___
        I'm Marcel. I'm Students From Central Java - My Age 15 y.o - My Hobby Is: Listen Music,Game,Halu.
 
 <p align="center">
