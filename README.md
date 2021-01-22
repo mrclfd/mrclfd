@@ -3,7 +3,7 @@
 
 <img align="center" src="https://raw.githubusercontent.com/kenzmobal/kenzmobal/main/assets/mrclfd.jpg" />
 
-       How to reach me: Telegram as @mrclfd
+       How to reach me: Telegram as `[@mrclfd](https://t.me/mrclfd)`
 </b>
 <b>
 
