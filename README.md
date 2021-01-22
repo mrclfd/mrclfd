@@ -3,14 +3,12 @@
 
 <img align="center" src="https://raw.githubusercontent.com/kenzmobal/kenzmobal/main/assets/mrclfd.jpg" />
 
-```md
-       How to reach me: Telegram as [@mrclfd](https://t.me/mrclfd)
-```
+       How to reach me: Telegram as @mrclfd
 </b>
 <b>
 
 ```css
-       #Marcel { 
+       #@mrclfd { 
          position: Indonesia; 
          height: 157cm; 
          display: boy; 
