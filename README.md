@@ -3,7 +3,7 @@
 
 <p align="center">
 <a href="https://www.mrclfd.tk/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.tk&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.tk&theme=vue" />
 </a>
 
        I’m currently working on Warung Makan
@@ -16,9 +16,9 @@
          height: 157cm; 
          display: boy; 
          background: a student; 
-         color: vue dark;
+         color: vue-dark;
        }
 ```
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenzmobal&&show_icons=true&&custom_title=@mrclfd Github Stats&&hide_border=boolean&&theme=vue-dark" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=kenzmobal&&show_icons=true&&custom_title=@mrclfd Github Stats&&hide_border=boolean&&theme=vue" />
