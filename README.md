@@ -1,17 +1,10 @@
 ## Hi there <img src="https://github.com/alfianandaa/alfianandaa/raw/master/assets/wave1.gif" width="30" height="30">
        I'm Marcel. I'm Students From Central Java - My Age 15 y.o - My Hobby Is: Listen Music,Game,Halu.
 
-## My Site
 <p align="center">
 <a href="https://www.mrclfd.tk/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.tk&theme=default" />
 </a>
-
-## About Me
-
-       I’m currently working on Warung Makan
-       I’m currently learning JS,CSS,HTML,PYTHON
-       How to reach me: Telegram as @mrclfd
 
 ```css
        #Marcel { 
