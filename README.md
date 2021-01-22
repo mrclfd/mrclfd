@@ -21,5 +21,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenzmobal&&show_icons=true&&custom_title=@mrclfd Github Stats&&hide_border=boolean&&theme=vue-dark"
 </b>
 <a href="https://www.mrclfd.tk/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.t&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.tk&theme=vue-dark" />
 </a>
