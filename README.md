@@ -10,8 +10,9 @@ I'm Students From Central Java | My Age 15 y.o | My Hobby Is: Listen Music, Game
 <a href="https://www.mrclfd.tk/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kenzmobal&repo=mrclfd.tk&theme=default" />
 </a>
+</p>
 
 ## Github stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=kenzmobal&&show_icons=true&&custom_title=@mrclfd Github Stats&&theme=vue-dark" />
-L
+</p>
