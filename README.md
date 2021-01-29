@@ -3,7 +3,7 @@
 # Hi there <img src="wave1.gif" width="30" height="30">
 > I'm Marcel Faraday
 
-I'm Students From Central Java | My Age 15 y.o | My Hobby Is: Listen Music, Game, Halu.
+I'm Students From Central Java, Indonesia 🇮🇩 | My Age 15 y.o | My Hobby Is: Listen Music, Game, Halu.
 ## My site
 
 <p align="center">
