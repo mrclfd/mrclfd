@@ -1,5 +1,4 @@
 <img src="icon.png" align="right" width="120" height="120"/>
-
 # Hi there <img src="wave1.gif" width="30" height="30">
 > I'm Marcel Faraday
 
