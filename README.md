@@ -3,16 +3,7 @@
 # Hi there <img src="wave1.gif" width="30" height="30">
 > I'm Marcel Faraday
 
-I'm Students From Central Java, Indonesia 🇮🇩 | My Age 15 y.o | My Hobby Is: Listen Music, Game, Halu.
-## My site
+I'm Students from Central Java, Indonesia 🇮🇩 | My Age 16y.o | My Hobby Is: Listen Music, Surfing Internet, and Sometimes I also help Tok Dalang.
 
-<p align="center">
-<a href="https://www.mrclfd.tk/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=mrclfd&repo=mrclfd.tk&theme=vue-dark" />
-</a>
-</p>
-
-## Github stats
-<p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=mrclfd&&show_icons=true&&custom_title=@mrclfd Github Stats&&theme=vue-dark" />
-</p>
+## Github Stats
+![Metrics](https://metrics.lecoq.io/mrclfd?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
